@@ -11,7 +11,7 @@ describe('Identity', function() {
   });
 
   it('can be mapped over', function() {
-    var result = R.map(R.add(1), Identity(1));
+    var result = R.into(Identity(), R.map(R.add(1)), Identity(1));
     result.extract().should.equal(2);
   });
 
