@@ -1,5 +1,5 @@
 # identity-transduce-hack
-Let's see if Rich Hickey delivers!
+Let's see if Rich Hickey [delivers](http://www.youtube.com/watch?v=6mTbuzafcII&t=43m53s)!
 
 ## Purpose
 
